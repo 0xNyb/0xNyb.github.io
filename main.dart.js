@@ -51196,7 +51196,7 @@ A.OL.prototype={
 $0(){var s=0,r=A.Y(t.H)
 var $async$$0=A.Z(function(a,b){if(a===1)return A.V(b,r)
 while(true)switch(s){case 0:s=2
-return A.a4(A.a1M(A.hK("https://play.google.com/store/apps/details?id=xyz.exwhyzii.djentronome&pcampaignid=web_share",0,null),B.wN),$async$$0)
+return A.a4(A.a1M(A.hK("https://github.com/0xNyb/djentronome/releases/tag/djentronome-0.9.2",0,null),B.wN),$async$$0)
 case 2:return A.W(null,r)}})
 return A.X($async$$0,r)},
 $S:20}
